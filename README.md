@@ -107,3 +107,12 @@ Click Send and you should receive a response (further down the page) that looks 
 ### Login details : 
 
 Log in as admin (email: admin@example.com, password: password) and ensure that you see an Add Product button in the navigation. Navigate to this page, then use the form to create a couple of new products. Finally, head back to the main page and make sure the new products are showing up in the product list.
+
+
+## Deploying your project
+
+ There are a number of ways to host your project for free. I used [Vercel](https://bit.ly/fem-vercel) as it's an amazing service and extremely simple to get set up with. If you'd like to use Vercel, here are some steps to follow to get started:
+
+1. [Sign up to Vercel](https://bit.ly/fem-vercel-signup) and go through the onboarding flow, ensuring your GitHub account is connected by using their [Vercel for GitHub](https://vercel.com/docs/v2/git-integrations/vercel-for-github) integration.
+2. Connect your project to Vercel from the ["Import project" page](https://vercel.com/import), using the "From Git Repository" button and selecting the project you want to deploy.
+3. Once connected, every time you `git push`, Vercel will create a new [deployment](https://vercel.com/docs/v2/platform/deployments) and the deployment URL will be shown on your [Dashboard](https://vercel.com/dashboard). You will also receive an email for each deployment with the URL.
