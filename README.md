@@ -51,11 +51,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 In this application, we'll use React Router to handle the routing, json-server, json-server-auth to create fake backend to handle authentication. we also need axios for making ajax request, jwt_decode so that we can parse the JWT that our back end will respond and bulma css framework
 
-### npm install react-router-dom
-### npm install json-server and json-server-auth
-### npm install axios
-### npm install jwt_decode
-### npm install bulma
+- npm install react-router-dom
+- npm install json-server and json-server-auth
+- npm install axios
+- npm install jwt_decode
+- npm install bulma
 
 ## Work Breakdown
 
