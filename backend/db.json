@@ -59,6 +59,14 @@
       "stock": "7",
       "shortDesc": "different types of dogs",
       "description": ""
+    },
+    {
+      "id": "0e5sv5x7axypki83404u",
+      "name": "t-shirts",
+      "price": "45",
+      "stock": "2",
+      "shortDesc": "types of t-shirts",
+      "description": ""
     }
   ]
 }
